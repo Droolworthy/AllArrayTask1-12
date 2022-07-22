@@ -13,6 +13,7 @@ namespace AllArrayTask1_12
             int min = a[0];
 
             for (int i = 0; i < a.Length; i++)
+                
                 if (min > a[i])
                     min = a[i];
 
@@ -36,13 +37,11 @@ internal class ProgramArray2
         {
             if (a[i] > max)
                 max = a[i];
-
         }
         for (int i = 0; i < a.Length - 2; i++)
         {
             if (a[i] > maxTwo)
                 maxTwo = a[i];
-
         }
         Console.WriteLine(max);
         Console.WriteLine(maxTwo);
