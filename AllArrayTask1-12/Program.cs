@@ -3,7 +3,7 @@
 namespace AllArrayTask1_12
 {
     /// <summary>
-    /// Найти минимальный элемент массива
+    /// Найти минимальный элемент массива.
     /// </summary>
     internal class ProgramArray1
     {
@@ -22,7 +22,7 @@ namespace AllArrayTask1_12
     }
 }
 /// <summary>
-/// Найти два наибольших элемента массива
+/// Найти два наибольших элемента массива.
 /// </summary>
 internal class ProgramArray2
 {
@@ -48,7 +48,7 @@ internal class ProgramArray2
     }
 }
 /// <summary>
-/// Посчитать сумму элементов массива
+/// Посчитать сумму элементов массива.
 /// </summary>
 internal class ProgramArray3
 {
@@ -67,7 +67,7 @@ internal class ProgramArray3
     }
 }
 /// <summary>
-/// Заполнить массив по возрастанию от 1 до 100
+/// Заполнить массив по возрастанию от 1 до 100.
 /// </summary>
 internal class ProgramArray4
 {
@@ -82,7 +82,7 @@ internal class ProgramArray4
     }
 }
 /// <summary>
-/// Создать и заполнить массив случайными целыми числами
+/// Создать и заполнить массив случайными целыми числами.
 /// </summary>
 internal class ProgramArray5
 {
@@ -99,7 +99,7 @@ internal class ProgramArray5
     }
 }
 /// <summary>
-/// Проверить что в массиве нет одинаковых чисел
+/// Проверить что в массиве нет одинаковых чисел.
 /// </summary>
 internal class ProgramArray6
 {
@@ -127,7 +127,7 @@ internal class ProgramArray6
     }
 }
 /// <summary>
-/// Переставить элементы массива в обратном порядке используя вспомогательный массив
+/// Переставить элементы массива в обратном порядке используя вспомогательный массив.
 /// </summary>
 internal class ProgramArray7
 {
@@ -143,7 +143,7 @@ internal class ProgramArray7
     }
 }
 /// <summary>
-/// Переставить элементы массива в обратном порядке НЕ используя вспомогательный массив
+/// Переставить элементы массива в обратном порядке НЕ используя вспомогательный массив.
 /// </summary>
 internal class ProgramArray8
 {
@@ -160,7 +160,7 @@ internal class ProgramArray8
     }
 }
 /// <summary>
-/// Посчитать сумму чисел в двухмерном массиве
+/// Посчитать сумму чисел в двухмерном массиве.
 /// </summary>
 internal class ProgramArray9
 {
@@ -182,7 +182,7 @@ internal class ProgramArray9
     }
 }
 /// <summary>
-/// Заполнить двумерный массив 10 на 10 случайными числами от 1 до 9 и вывести на экран консоли
+/// Заполнить двумерный массив 10 на 10 случайными числами от 1 до 9 и вывести на экран консоли.
 /// </summary>
 internal class ProgramArray10
 {
@@ -205,7 +205,7 @@ internal class ProgramArray10
     }
 }
 /// <summary>
-/// Двумерный массив скопировать в одномерный
+/// Двумерный массив скопировать в одномерный.
 /// </summary>
 internal class ProgramArray11
 {
@@ -228,7 +228,7 @@ internal class ProgramArray11
     }
 }
 /// <summary>
-/// Двумерный массив скопировать в одномерный
+/// Двумерный массив скопировать в одномерный.
 /// </summary>
 internal class ProgramArray12
 {
@@ -251,7 +251,7 @@ internal class ProgramArray12
     }
 }
 /// <summary>
-/// Заполнить двумерный массив 10 на 10 случайными числами от 1 до 9 и определить колличество чётных чисел в массиве
+/// Заполнить двумерный массив 10 на 10 случайными числами от 1 до 9 и определить колличество чётных чисел в массиве.
 /// </summary>
 internal class ProgramArray13
 {
@@ -280,7 +280,7 @@ internal class ProgramArray13
     }
 }
 /// <summary>
-/// Одномерный массив скопировать в двухмерный  4x4
+/// Одномерный массив скопировать в двухмерный  4x4.
 /// </summary>
 internal class ProgramArray14
 {
